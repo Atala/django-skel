@@ -1,0 +1,8 @@
+#### General stuffs
+django==1.7
+
+#### Database management
+psycopg2==2.5.4
+
+#### Commands management
+Fabric==1.10.0
